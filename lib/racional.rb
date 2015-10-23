@@ -58,7 +58,7 @@ end #if
 den=@d*other.d
 num1 = ( den / @d ) * @n
 num2 = ( den / other.d ) * other.n
-num = num1 + num 2
+num = num1 + num2
 
 a=gcd(num, den)
 
@@ -81,7 +81,7 @@ def -(other)
 den=@d*other.d 
 num1 = ( den / @d ) * @n 
  num2 = ( den / other.d ) * other.n 
-num = num1 - num 2 
+num = num1 - num2 
 
  a=gcd(num, den) 
 
